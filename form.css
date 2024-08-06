@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    background-color: rgb(210, 238, 238);
+    margin-top: 50px;
+}
+.heading
+{
+    background-color:b;
+    width: 100%;
+}
+.form-box
+{
+
+  height:550px;
+  width: 700px;
+  padding: 20px;
+  background-color:rgb(109, 159, 159);
+  border-radius: 20px;
+  margin-left: 27%;
+  box-shadow: 2px 2px 2px 2px rgb(4, 72, 87)
+}
+.subject
+{
+    width:50px;
+    height:30px;
+    color: black;
+    border-radius: 5px;
+}
+.box
+{
+    width:300px;
+    height:30px;
+    color: black;
+    border-radius: 5px;
+}
+.box2
+{
+    width:50px;
+    height:30px;
+    color: black;
+    border-radius: 5px;
+
+}
+.font
+{
+    font-size: 20px;  
+}
+.button
+{
+    background-color: blue;
+    border-radius: 10px;
+    font-size: 20;
+    color: white;
+    height: 40px;
+    width: 100px;
+    margin-top: 100px;
+}
+.button:hover
+{
+    height: 40px;
+    width: 90px;
+}
